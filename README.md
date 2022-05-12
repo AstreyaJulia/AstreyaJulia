@@ -7,7 +7,8 @@ AstreyaJulia/AstreyaJulia is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 ## Контакты
-* email: astreyajulia@gmail.com
+* email: [mailto:astreyajulia@gmail.com](astreyajulia@gmail.com)
+* telegram: 
 
 ## Мой мини-блог, на который вечно не хватает времени:
 * [https://astreyajulia.ru/](https://astreyajulia.ru/)
