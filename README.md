@@ -19,6 +19,7 @@
 В дальнейшем к знаниям по веб-разработке планирую добавить UI/UX-дизайн.
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=astreyajulia&label=Profile%20views&color=0e75b6&style=flat" alt="astreyajulia" /> </p>
 
 ![Моя Статистика](https://metrics.lecoq.io/AstreyaJulia?template=classic&base.community=0&languages=1&activity=1&lines=1&repositories=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Europe%2FMoscow)
 ---
